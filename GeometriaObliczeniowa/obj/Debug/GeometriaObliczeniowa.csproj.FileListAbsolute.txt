@@ -1,0 +1,12 @@
+D:\studia\geometria\program\GeometriaObliczeniowa\bin\Debug\GeometriaObliczeniowa.exe.config
+D:\studia\geometria\program\GeometriaObliczeniowa\bin\Debug\GeometriaObliczeniowa.exe
+D:\studia\geometria\program\GeometriaObliczeniowa\bin\Debug\GeometriaObliczeniowa.pdb
+D:\studia\geometria\program\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.Form1.resources
+D:\studia\geometria\program\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.Properties.Resources.resources
+D:\studia\geometria\program\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.csproj.GenerateResource.Cache
+D:\studia\geometria\program\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.exe
+D:\studia\geometria\program\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.pdb
+D:\studia\geometria\program\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.csprojResolveAssemblyReference.cache
+D:\praca\GeometriaObliczeniowa\bin\Debug\GeometriaObliczeniowa.exe.config
+D:\praca\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.exe
+D:\praca\GeometriaObliczeniowa\obj\Debug\GeometriaObliczeniowa.pdb
